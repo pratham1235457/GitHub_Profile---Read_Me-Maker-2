@@ -1,9 +1,9 @@
-# 💫 Hi 👋, I'm Pratham Gupta
-**A passionate Cloud Engineer || DevOps Engineer || Admin from India**
+# 💫 Hi 👋, I'm Pratham Gupta.
+**A passionate Java Engineer || DevOps Engineer || Admin from India**
 
 Email Me 👉 ✉️ **guptadivyravinda@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Smart Home App
+- 🔭 **I’m currently working on:** 
 - 🌱 **I’m currently learning:** Tech
 - 👯 **I’m looking to collaborate on:** Smart Home App
 - 💬 **Ask me about:** Collaboration, Tech Support
