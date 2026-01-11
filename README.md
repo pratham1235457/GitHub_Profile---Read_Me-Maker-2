@@ -3,9 +3,9 @@
 
 Email Me 👉 ✉️ **guptadivyravinda@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** 
+- 🔭 **I’m currently working on:** Simple RealTime Server
 - 🌱 **I’m currently learning:** Tech
-- 👯 **I’m looking to collaborate on:** Smart Home App
+- 👯 **I’m looking to collaborate on:** Simple RealTime Server
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** guptadivyravinda@gmail.com
 - 😄 **Pronouns:** Pratham
